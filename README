@@ -1,1 +1,9 @@
-start of the project
+Implemented:
+1. LD r, n
+2. JP nn
+3. JP cc, nn
+4. JR e
+5. JR C, e
+6. JR NC, e
+7. JR Z, e
+8. JR NZ, e
