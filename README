@@ -1,9 +1,29 @@
 Implemented:
 1. LD r, n
-2. JP nn
-3. JP cc, nn
-4. JR e
-5. JR C, e
-6. JR NC, e
-7. JR Z, e
-8. JR NZ, e
+2. LD r, r'
+3. LD r, (HL)
+4. JP nn
+5. JP cc, nn
+6. JR e
+7. JR C, e
+8. JR NC, e
+9. JR Z, e
+10. JR NZ, e
+11. ADD A, r
+12. ADC A, r
+13. SUB A, r
+14. SBC A, r
+15. AND A, r
+16. OR A, r
+17. XOR A, r
+18. CP A, r
+
+19. ADD A, (HL)
+20. ADC A, (HL)
+21. SUB A, (HL)
+22. SBC A, (HL)
+23. AND A, (HL)
+24. OR A, (HL)
+25. XOR A, (HL)
+26. CP A, (HL)
+
