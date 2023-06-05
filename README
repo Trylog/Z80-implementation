@@ -26,4 +26,9 @@ Implemented:
 24. OR A, (HL)
 25. XOR A, (HL)
 26. CP A, (HL)
-
+27. EXX
+28. EX AF, AF'
+29. INC r 
+30. DEC r
+31. INC (HL)
+32. DEC (HL)
